@@ -1,0 +1,23 @@
+{
+  "@@locale": "en",
+  "appTitle": "Amma Hospital",
+  "welcomeMessage": "Welcome to Dr. Sivajyothi's Appointment Booking!",
+  "bookAppointment": "Book Appointment",
+  "appointmentBookingTitle": "Appointment Booking",
+  "doctorName": "Dr. Sivajyothi",
+  "patientNameHint": "Patient Name",
+  "patientPhoneHint": "Phone Number",
+  "selectDate": "Select Date",
+  "selectedDate": "Selected Date",
+  "availableTimes": "Available Times",
+  "bookButton": "Book Appointment",
+  "pleaseFillAllDetails": "Please fill all the details.",
+  "appointmentBookedSuccess": "Appointment successfully booked!",
+  "appointmentId": "Appointment ID",
+  "errorText": "Error",
+  "somethingWentWrong": "Something went wrong.",
+  "ok": "OK",
+  "language": "Language",
+  "english": "English",
+  "telugu": "Telugu"
+}

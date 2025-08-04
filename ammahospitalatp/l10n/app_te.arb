@@ -1,0 +1,23 @@
+{
+  "@@locale": "te",
+  "appTitle": "అమ్మ హాస్పిటల్",
+  "welcomeMessage": "డాక్టర్ శివజ్యోతి గారికి అపాయింట్‌మెంట్ బుక్ చేసుకోవడానికి స్వాగతం!",
+  "bookAppointment": "అపాయింట్‌మెంట్ బుక్ చేయండి",
+  "appointmentBookingTitle": "అపాయింట్‌మెంట్ బుకింగ్",
+  "doctorName": "డాక్టర్ శివజ్యోతి",
+  "patientNameHint": "రోగి పేరు",
+  "patientPhoneHint": "ఫోన్ నెంబర్",
+  "selectDate": "తేదీని ఎంచుకోండి",
+  "selectedDate": "ఎంచుకున్న తేదీ",
+  "availableTimes": "అందుబాటులో ఉన్న సమయాలు",
+  "bookButton": "అపాయింట్‌మెంట్ బుక్ చేయండి",
+  "pleaseFillAllDetails": "దయచేసి అన్ని వివరాలను పూరించండి.",
+  "appointmentBookedSuccess": "అపాయింట్‌మెంట్ విజయవంతంగా బుక్ చేయబడింది!",
+  "appointmentId": "అపాయింట్‌మెంట్ ఐడి",
+  "errorText": "లోపం",
+  "somethingWentWrong": "ఏదో తప్పు జరిగింది.",
+  "ok": "సరే",
+  "language": "భాష",
+  "english": "ఇంగ్లీష్",
+  "telugu": "తెలుగు"
+}
